@@ -1,0 +1,12 @@
+{
+    "name": "controle_estoque",
+    "short_name": "controle_estoque",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Controle de Estoque com Login e Senha + SQLite",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
